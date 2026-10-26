@@ -5,11 +5,28 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00ff41&height=180&section=header&text=TANISHA%20JAISWAL&fontSize=40&fontColor=00ff41&fontAlignY=38&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:2d1b4e,60:6e40c9,100:ff2d95&height=200&section=header&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%"/>
+
+<!-- PIXELATED NAME BANNER -->
+```
+                                                                        
+ ████████  █████  ██   ██ ██ ███████ ██   ██  █████                     
+    ██    ██   ██ ███  ██ ██ ██      ██   ██ ██   ██                    
+    ██    ███████ ██ █ ██ ██ ███████ ███████ ███████                    
+    ██    ██   ██ ██  ███ ██      ██ ██   ██ ██   ██                    
+    ██    ██   ██ ██   ██ ██ ███████ ██   ██ ██   ██                    
+                                                                        
+          ██  █████  ██ ███████ ██     ██  █████  ██                     
+          ██ ██   ██ ██ ██      ██     ██ ██   ██ ██                     
+          ██ ███████ ██ ███████ ██  █  ██ ███████ ██                     
+     ██   ██ ██   ██ ██      ██ ██ ███ ██ ██   ██ ██                    
+      █████  ██   ██ ██ ███████  ███ ███  ██   ██ ███████               
+                                                                        
+```
 
 <!-- TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%3E+builds+systems+that+survive+restarts;%3E+argues+with+compilers+for+fun;%3E+currently+mass_recruited" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1200&color=FF2D95&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%3E+builds+systems+that+survive+restarts;%3E+argues+with+compilers+for+fun;%3E+currently+mass_recruited" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,27 +35,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- =================== GAME =================== -->
-
-### `> PLAY.exe`
-
-<br/>
-
-<a href="https://claude.ai/artifact/DXxiaeAQ6GDDgfxvkrL2Cy">
-  <img src="https://img.shields.io/badge/PLAY%20PIXEL%20BIRD-00ff41?style=for-the-badge" />
-</a>
-
-```
-  Can you beat my high score?
-  CLICK / TAP / SPACEBAR = FLAP
-  Avoid pipes. Stay alive.
-```
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- =================== INTERESTS =================== -->
 
@@ -60,7 +57,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- =================== TOOLS =================== -->
 
@@ -113,7 +110,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- =================== PHILOSOPHY =================== -->
 
@@ -139,7 +136,7 @@ echo "current status: step 4"
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- =================== STATS =================== -->
 
@@ -148,7 +145,7 @@ echo "current status: step 4"
 <br/>
 
 <a href="https://github.com/tanisha0330">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tanisha0330&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=6e40c9&text_color=c9d1d9&ring_color=00ff41" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tanisha0330&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2d95&icon_color=6e40c9&text_color=e0e0e0&ring_color=ff2d95" />
 </a>
 
 <a href="https://github.com/tanisha0330">
@@ -169,23 +166,7 @@ echo "current status: step 4"
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- =================== SNAKE =================== -->
-
-### `> CONTRIBUTIONS.render`
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanisha0330/tanisha0330/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanisha0330/tanisha0330/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/tanisha0330/tanisha0330/output/github-snake.svg" />
-</picture>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- =================== FOOTER =================== -->
 
@@ -197,8 +178,7 @@ echo "current status: step 4"
 <br/>
 
 ```
-  thanks for scrolling this far
-  you are mass_recruited
+  thanks for scrolling this far you are mass_recruited
 ```
 
 <br/>
